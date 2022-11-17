@@ -1,0 +1,7 @@
+.git/
+.idea/
+
+pkg/client/
+
+*.imp
+*.log
